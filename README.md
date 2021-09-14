@@ -1,4 +1,3 @@
 # Stat545demo
-Just a demo for in class
 
-This is a random sentence.
+New info here.
